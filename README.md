@@ -1,4 +1,4 @@
-# Hello everyone, I'm Tran Bao Ngoc
+Tran Bao Ngoc
 🎓 Accounting & Auditing Student  
 📍 Hanoi, Vietnam 
 
