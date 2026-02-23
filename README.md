@@ -1,4 +1,11 @@
-## Hi there 👋
+# Hello everyone, I'm Tran Bao Ngoc
+🎓 Accounting & Auditing Student  
+📍 Hanoi, Vietnam 
+
+# 👩‍🎓 About Me
+- Second-year Accounting &  Auditing Student in Foreign Trade University
+- 
+
 
 <!--
 **k632413820055-ui/k632413820055-ui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
